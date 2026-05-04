@@ -1,3 +1,28 @@
+# macOS
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+.env
+
+# Edge runtime data
+edge/data/*.db
+
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+*.log
+
+# IDE (Android Studio / IntelliJ)
+.idea/
+
+# Misc
 *.lck
-hardware/garment_tag/ble beacon/.history
