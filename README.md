@@ -134,8 +134,9 @@ python pipeline_final.py
 
 Detailed documentation is available in:
 
-* `docs/architecture.md`
-* `docs/setup_guide.md`
+* `docs/architecture.md` – system design and component overview  
+* `docs/setup_guide.md` – installation and setup instructions  
+* `docs/user_manual.md` – how to use the system (end-user guide)
 
 ---
 
