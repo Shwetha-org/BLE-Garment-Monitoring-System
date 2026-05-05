@@ -16,6 +16,7 @@ The system tracks garment states such as **worn**, **stored**, and **washed** by
 <p align="center">
   Custom BLE garment tag with integrated motion (BMI270) and humidity (SHTC3) sensors, powered by a CR2032 coin cell.
 </p>
+
 ---
 
 ## System Architecture
